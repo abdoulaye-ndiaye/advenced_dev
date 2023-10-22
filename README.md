@@ -3,6 +3,6 @@
 # groupe constitué de :
 # Abdoulaye Ndiaye
 # Serigne saliou Diome
-# Nafissatou Ndiaye 
+# Nafissatou Kane
 # sidy Wade
 # Bassirou tounkara
